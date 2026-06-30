@@ -1,11 +1,6 @@
-/*
-==============================================
-Topic       : SELECT Statement
-Day         : 01
-Author      : Manohar Sonawane
-Description : Display all records from a table.
-==============================================
-*/
+-- DAY-1
+-- Topic       : SELECT Statement
+
 
 -- Display all columns from Employees table
 
