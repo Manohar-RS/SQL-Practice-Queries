@@ -20,3 +20,7 @@ This repository contains SQL queries from Basic to Advanced concepts.
 ## Goal
 
 Improve SQL skills through daily practice and interview questions.
+
+## Progress
+
+- [x] Day 01 - SELECT Statement
