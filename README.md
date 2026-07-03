@@ -24,5 +24,6 @@ Improve SQL skills through daily practice and interview questions.
 ## Progress
 
 - [x] Day 01 - SELECT Statement
-- [x]  Day 02 - WHERE Clause
-- [x]  Day 03 - Count Keyword
+- [x] Day 02 - WHERE Clause
+- [x] Day 03 - Count Keyword
+- [x] Day 04 - Distinct , Count , Where
