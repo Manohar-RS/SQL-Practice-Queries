@@ -28,3 +28,4 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 03 - Count Keyword
 - [x] Day 04 - Distinct , Count , Where
 - [x] Day 05 - AND / OR Conditions
+- [x] Day 06 - NOT / Combine AND & OR Conditions
