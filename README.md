@@ -30,3 +30,4 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 05 - AND / OR Conditions
 - [x] Day 06 - NOT / Combine AND & OR Conditions
 - [x] Day 07 - IN / NOT IN keyword
+- [x] Day 08 - BETWEEN , NULL , NOT NULL
