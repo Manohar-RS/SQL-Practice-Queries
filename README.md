@@ -32,4 +32,5 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 07 - IN / NOT IN keyword
 - [x] Day 08 - BETWEEN , NULL , NOT NULL
 - [x] Day 09 - String Operation ( LIKE )
-- [x] Day 10 - Sorting And Limiting 
+- [x] Day 10 - Sorting And Limiting
+- [x] Day 11 - Sorting & Limiting
