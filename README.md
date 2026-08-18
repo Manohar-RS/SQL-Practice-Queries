@@ -35,3 +35,4 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 10 - Sorting And Limiting
 - [x] Day 11 - Sorting & Limiting
 - [x] Day 12 - Sorting & Limiting
+- [x] Day 13 - Aggregation and Grouping
