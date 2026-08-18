@@ -10,6 +10,7 @@ This repository contains SQL queries from Basic to Advanced concepts.
 - WHERE
 - ORDER BY
 - GROUP BY
+- Aggregation
 - HAVING
 - JOINS
 - SUBQUERIES
