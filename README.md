@@ -38,4 +38,5 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 12 - Sorting & Limiting
 - [x] Day 13 - Aggregation and Grouping
 - [x] Day 14 - Aggregation and Grouping
-- [x] Day 15 - Joins - I (Inner , Left Joins)
+- [x] Day 15 - Joins - 1 (Inner , Left Joins)
+- [ ] Day 16 - Joins - 2 (Left , Right Joins)
