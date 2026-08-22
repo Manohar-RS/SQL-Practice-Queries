@@ -40,3 +40,4 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 14 - Aggregation and Grouping
 - [x] Day 15 - Joins - 1 (Inner , Left Joins)
 - [x] Day 16 - Joins - 2 (Left , Right Joins)
+- [ ] Day 17 - Joins - 3 (Full Outer Join )
