@@ -42,3 +42,4 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 16 - Joins - 2 (Left , Right Joins)
 - [x] Day 17 - Joins - 3 (Full Outer Joins )
 - [x] Day 18 - Joins - 4 (Self , Cross , Left Joins)
+- []  Day 19 - Joins - 5 (Using SUM , COUNT , multiple Conditions)
