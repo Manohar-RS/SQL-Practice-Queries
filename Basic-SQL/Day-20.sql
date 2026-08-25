@@ -1,7 +1,7 @@
 -- Day 20
 -- Join
 
--- Join on a non-equi conditions
+-- Join on a non-equi condition
 
 select e.employee_id , h.salary_grade 
 from employees e
