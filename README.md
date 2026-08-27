@@ -45,4 +45,4 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 19 - Joins - 5 (Using SUM , COUNT , multiple Conditions)
 - [x] Day 20 - Joins - 6 (Using BETWEEN , WHERE , GROUP BY)
 - [x] Day 21 - SQL subqueries (SELECT , FROM , WHERE)
-- [ ] Day 22 - subqueries and salary calculations (Using EXISTS , NOT-EXISTS)
+- [x] Day 22 - subqueries and salary calculations (Using EXISTS , NOT-EXISTS)
