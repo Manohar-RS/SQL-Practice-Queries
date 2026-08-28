@@ -1,4 +1,4 @@
-# SQL Practice Queries
+# SQL Practice Queries | Interview Quetions & Answers
 
 Welcome to my SQL Practice Repository.
 
