@@ -46,4 +46,4 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 20 - Joins - 6 (Using BETWEEN , WHERE , GROUP BY)
 - [x] Day 21 - SQL subqueries (SELECT , FROM , WHERE)
 - [x] Day 22 - subqueries and salary calculations (Using EXISTS , NOT-EXISTS)
-- [ ] Day 23 - Demonstrating subqueries for various use cases
+- [x] Day 23 - Demonstrating subqueries for various use cases
