@@ -48,3 +48,4 @@ Improve SQL skills through daily practice and interview questions.
 - [x] Day 22 - subqueries and salary calculations (Using EXISTS , NOT-EXISTS)
 - [x] Day 23 - Demonstrating subqueries for various use cases
 - [x] Day 24 - SQL Conditional Functions
+- [ ] Day 25 - WINDOW Functions
